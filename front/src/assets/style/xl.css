@@ -1,0 +1,93 @@
+@media screen and (min-width: 1200px) 
+{
+  body   { margin       :  50px }
+  .video { margin-top   : -50px ;
+           margin-left  : -50px ;
+           margin-bottom:  50px ;
+  }
+  
+  .main-body
+  {
+    box-shadow:10px 10px 15px rgba(0,0,0,0.4)
+  }
+
+  .div-members   ,
+  .main-about h2 ,
+  .main-about p
+  {
+    padding-left : 5rem;
+    padding-right: 5rem;
+  }
+
+  .div-members{
+    gap: 1rem;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .nav 
+  {
+    display: inline-block;
+    padding-top: 3px;
+  }
+  #goMobile {display: none}
+
+  .footer-logo 
+  {   margin-left: -20px ; 
+       margin-top:  10px ; 
+    margin-bottom: -10px ;
+  }
+  #footer-links {margin-left: 70px;}
+  #contact-div {margin-left:-46px!important;margin-top: -8px;line-height: 22px;}
+
+  .footlink:hover .spanLeft
+  {  position: absolute;
+     left:-20px;
+     opacity:1;
+  } .footlink:hover .spanRight{
+   position: absolute;
+   right:-1px;
+   opacity:1;
+  } footer .container 
+  { background-image: url('/assets/footer2.png')
+  }
+  #footer-links-left
+  {
+    text-transform: uppercase;
+  }
+  #passion-for-wine .wine-types {margin-top: 40px;padding-bottom: 10px;}
+  .wine-types .relative {display: block}
+       .rose:hover {color:#b96969; text-transform: uppercase; letter-spacing: 0px;}
+      .white:hover {color:#a2ae8e; text-transform: uppercase; letter-spacing: 0px;}
+        .red:hover {color:#6f0407; text-transform: uppercase; letter-spacing: 0px;}
+  .sparkling:hover {color:#d2ae25; text-transform: uppercase; letter-spacing: 0px;}
+    .dessert:hover {color:#b90114; text-transform: uppercase; letter-spacing: 0px;}
+       .rose:hover img,
+      .white:hover img,
+        .red:hover img,
+  .sparkling:hover img { transform:rotate(-64deg) }
+  .page-numbers {
+    display:flex
+  }
+  .wine-description{
+    text-overflow: none;
+         overflow: none;
+    padding-right: 1rem;
+       text-align: left;
+          display: inline-block;
+    margin-bottom: -1.25rem;
+  }
+  .wine-name{
+   font-size: 2.25rem; 
+   line-height: 2.5rem; 
+  }
+  .bgProduct{
+   background-image: url('../img/bgProduct.png');
+   background-size: cover;
+  }
+  .bg-product{
+   background-image: url('../img/bgProduct.png');
+   background-size: 424px 440px;
+   background-repeat: no-repeat;
+   background-position-y: -30px;
+  }
+}

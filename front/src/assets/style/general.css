@@ -1,0 +1,223 @@
+*,
+*::before,
+*::after { 
+               margin: 0; 
+              padding: 0; 
+           box-sizing: border-box; 
+} html, body {     
+               margin: 0;
+              padding: 0;
+   -ms-overflow-style: none;
+      scrollbar-width: none; 
+     -moz-user-select: none;
+  -webkit-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+      scroll-behavior: auto;
+  } body {     margin: 0;
+              padding: 0;
+           min-height: 100vh;
+}               body::-webkit-scrollbar{
+              display: none; 
+}    details summary::-webkit-details-marker {
+              display:none;
+}   details > summary:first-of-type {
+      list-style-type: none;
+} img {
+    -webkit-user-drag: none;
+     -khtml-user-drag: none;
+       -moz-user-drag: none;
+         -o-user-drag: none;
+} .video {      width: 100vw;
+               height: 100vh;
+             overflow: hidden;
+              z-index: 40;
+      background-size: cover;
+    background-repeat: no-repeat;
+  background-position: center center;
+}  video { min-height: 100vh;
+           max-height: -webkit-fill-available;
+            min-width: 100vw;
+            max-width: -webkit-fill-available;
+           object-fit: fill;
+              z-index: 40;
+              -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+} .videologo{  filter: drop-shadow(2px 2px 1px rgb(0 0 0 / .6))}
+input {outline: none}
+
+
+/* Fonts  */
+#portableMenu a,
+#goMobile,
+#modal-age,
+.comment-container,
+.pts,.footer,.nav a,.menu,
+.wine-description small 
+{ font-family:"Segoe UI",Verdana, Geneva, Tahoma, sans-serif}
+
+.submenu h3,#goMobile,.price {    font-weight: bold     }
+.pts                         {    font-weight: normal   }
+.wine-description small      {      font-size: 11px     }
+#modal-age button            {      font-size:  1.1rem  }
+#modal-age                   {      font-size:  1.25rem }
+.wine-name                   {      font-size:  1.6rem  }
+.price                       {      font-size:  2rem    }
+#portableMenu a              {      font-size:  5rem    }
+.wine-name                   {    line-height:  1.8rem  } 
+.wine-description small      { letter-spacing: -.7px    }
+
+
+/* alignment, size, margins, and display */
+
+#home-main-1
+{
+  background-image: url('../img/main.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: block;
+  height: 50vw;
+  max-height: 640px;
+  max-width: 1280px;
+  background-position: center;
+}
+
+#home-main-2
+{
+  background-image: url('../img/main2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: block;
+height:37vw;
+max-height:450px  ;
+max-width: 1280px;
+background-position: center;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+#modal-age
+{
+  position: sticky;
+  bottom: 0;
+  width:100%;
+  text-align: center;
+  padding: 20px 0;
+  opacity: .7;
+  z-index: 5;
+  display: none;
+}
+
+#modal-age button{
+  margin-left: 10px;
+  padding: 3px 7px;
+  border-radius:7px;
+  letter-spacing: 1px;
+}
+
+footer .container {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  margin: 0 auto;
+}
+
+.footlink {
+  width: 180px;
+  display: inline-block;
+  position:relative;
+  text-decoration:none;
+}
+
+.spanLeft{
+  position: absolute;
+  left:-7px;
+  opacity:0;
+  transition:0.25s;
+}
+
+.spanRight{
+  position: absolute;
+  right:-7px;
+  opacity:0;
+  transition:0.25s;
+}
+#contact-div {margin-left: 30px;}
+
+.wine-description { margin:0 auto;  padding:1rem 0 2rem 0; word-spacing:-.07vw; text-align:justify;text-justify: auto; -webkit-hyphens: auto; -webkit-hyphenate-limit-before: 3; -webkit-hyphenate-limit-after: 3; -webkit-hyphenate-limit-chars: 6 3 3; -webkit-hyphenate-limit-lines: 2; -webkit-hyphenate-limit-last: always; -webkit-hyphenate-limit-zone: 8%; -moz-hyphens: auto; -moz-hyphenate-limit-chars: 6 3 3; -moz-hyphenate-limit-lines: 2; -moz-hyphenate-limit-last: always; -moz-hyphenate-limit-zone: 8%; -ms-hyphens: auto; -ms-hyphenate-limit-chars: 6 3 3; -ms-hyphenate-limit-lines: 2; -ms-hyphenate-limit-last: always; -ms-hyphenate-limit-zone: 8%; hyphens: auto; hyphenate-limit-chars: 6 3 3; hyphenate-limit-lines: 2; hyphenate-limit-last: always; hyphenate-limit-zone: 8% }
+.wine-search input {border:2px solid; border-radius: 7px; padding:0 4px; width:250px}
+.wine-search button {margin-left:2px;border:2px solid; border-radius: 7px; padding:0 3px}
+.wine-types-submenu a { min-width:70px;display: inline-block}
+
+.usermenu {  border:2px solid;  margin-top:6px;  position:absolute;  width:78px;  height:104px;  border-radius: 7px;  z-index: 50;}
+.usermenu a {width:74px;padding-left:5px;display:inline-block;padding-bottom:2px;height:25px}
+.usermenu a:first-of-type:hover { padding-top:0px}
+.usermenu a:last-of-type:hover { padding-bottom:0px }
+.submenu h3 {margin-top: 9px}
+.submenu a {padding:4px}
+
+.submenu {
+       border : 2px solid  ;
+     position : absolute   ;
+  margin-left :  -2px      ;
+  margin-top  :   7px      ;
+        width : 480px      ;
+      padding :   14px 8px ;
+ border-radius:    7px     ;
+}
+.submenucart {
+  border:2px solid;
+  position:absolute;
+  width: 300px;
+  margin-top:30px;
+  height:644px;
+  padding:14px 8px;
+  border-radius: 7px;
+}
+
+.price {
+  display:table;
+  text-align:center;
+  vertical-align: middle;
+  margin-top: 1.25rem
+}
+
+#region {max-width: 80px}
+
+#portableMenu {
+  width:100vw;
+  height:100vh;
+  z-index:50;
+  top:0;
+  left:0;
+  position: absolute;
+  display: none;
+}
+
+#goMobile {margin-top: 44px;}
+.nav{display: none}
+.nav-icons{padding-bottom: 90px;margin-right:20px}
+
+.wine-description{
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2; 
+  overflow: hidden;
+  padding-right: 1.5rem;
+  text-align: justify;
+  margin-bottom: .75rem;
+}
+
+.pts {
+  border:1px solid;
+  padding:4px 8px;
+  border-radius: 5px;
+  display: table-cell;
+  vertical-align: middle;
+  scale: .7;
+  }
+
+  

@@ -1,0 +1,113 @@
+@media screen and (min-width:1px) and (max-width: 359px) 
+{
+  .main-body { 
+    min-height: calc(100vh - 35px);
+        margin: 0!important;
+         scale: 1;
+      overflow: hidden!important;
+  }
+
+  .div-members   ,
+  .main-about h2 ,
+  .main-about p
+  {
+    padding-left : 1.5rem;
+    padding-right: 1.5rem;
+    font-size: 110%;
+    hyphens: auto;
+  }
+
+
+
+  #navbar {
+          scale:   .8  ;
+    margin-left: -3.4% ;
+        z-index:  40   ;
+  }
+  .nav-icons {
+          scale: .75;
+     margin-top: 30px;
+   margin-right: -6px;
+  }
+  .wine-types a 
+  {
+    text-transform: capitalize!important;
+         font-size: 75%;
+    letter-spacing: -.5px;
+  }
+  footer .container {
+    background-color: transparent;
+  }
+  .footer-logo 
+  {
+    display:none
+  }
+  footer * {
+    font-size: 13px;
+  }
+  #footer-links
+  { margin-left: -14.5vw;
+     margin-top: -45px;
+  }
+  #footer-links-left
+  { text-transform: capitalize!important;
+  }
+  #contact-div
+  { margin-left: 4.5vw;
+    margin-top: -5px;
+    line-height: 9px;
+  }
+  footer .container {
+    height:150px!important
+  }
+
+  #passion-for-wine 
+  .wine-types 
+  { margin-top: 0; 
+    padding-bottom: 20px;
+  }
+  .wine-types 
+  .relative 
+  { display: none 
+  }
+  .wine-types
+  { letter-spacing: 0px; 
+    font-size: 1.125rem 
+  }
+  .wine-types a:hover
+  { background-color: #87837d 
+  }
+
+  .wine-types a 
+  { min-width:20%; 
+    border-right: 1px solid #a3a3a3; 
+    border-top:1px solid #a3a3a3;
+    border-bottom:1px solid #a3a3a3;
+    font-family:"Segoe UI",Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600; 
+    text-transform: uppercase; 
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-bottom: -10px;
+  }
+
+  .wine-types a:last-of-type 
+   { border-right: none 
+   }
+
+   .page-numbers 
+   { display: none 
+   }
+
+   .price {    font-size: 185%!important;    margin-top: -10px!important;   }
+   .wine-winery{font-size:110%!important}
+   .wine-name {font-size: 130%!important; line-height:120%!important;height:80px;overflow: hidden; vertical-align: middle; display: table-cell;text-overflow: ellipsis;}
+   .wine-description {font-size: 90%!important; word-spacing: -3px; line-height: 105%!important; height:92px; overflow: hidden;  padding-bottom: 12px;  }
+   .wine-bootle{margin-top: -26px!important}
+   .wine-button{margin-left:32px;margin-top:-4px}
+   .wine-card {padding-bottom: 4px!important}
+   #filter-price{width:60px}
+   #filter-vintage{width:74px}
+   #filter-score{width:60px}
+}

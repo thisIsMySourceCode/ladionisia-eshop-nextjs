@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 550 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-98.4392,-41.3317)">
+        <g>
+            <g transform="matrix(5.77449,0,0,5.77449,-198.504,-240.67)">
+                <circle cx="98.864" cy="96.545" r="46.636" style="fill:none;stroke:rgb(191,191,191);stroke-width:1.01px;"/>
+            </g>
+            <g transform="matrix(4.03314,0,0,4.03314,-26.3469,-72.5498)">
+                <circle cx="98.864" cy="96.545" r="46.636" style="fill:none;stroke:rgb(191,191,191);stroke-width:0.68px;"/>
+            </g>
+            <g transform="matrix(0.393362,0,0,0.393362,136.456,192.884)">
+                <path d="M709,51.75C722.267,52.003 735.413,53.107 748.44,55.06C774.787,58.887 799.787,66.887 823.44,79.06C837.133,86.107 849.883,94.607 861.69,104.56C870.97,112.253 879.01,120.213 885.81,128.44C895.63,140.18 903.59,153.47 909.69,168.31C920.117,193.283 926.053,219.68 927.5,247.5C928.66,269.747 927.243,291.497 923.25,312.75C917.91,341.93 908.513,370.033 895.06,397.06C881.767,423.773 865.017,448.19 844.81,470.31C834.737,481.283 823.967,491.263 812.5,500.25C787.66,519.81 760.93,535.747 732.31,548.06C693.183,564.9 652.08,573.543 609,573.99C608.667,573.997 608.333,573.997 608,573.99C591.12,573.583 574.203,571.253 557.25,567C538.51,562.28 520.49,558.3 503.19,555.06C492.183,553 481.787,552.98 472,555C458.773,557.887 446.043,561.323 433.81,565.31C408.183,573.817 381.163,578.213 352.75,578.5C334.357,578.687 316.96,574.75 300.56,566.69C297.107,565.023 293.9,562.98 290.94,560.56C284.56,555.993 279.517,550.37 275.81,543.69C273.757,539.983 272.487,535.92 272,531.5C271.02,525.4 272.123,519.587 275.31,514.06C280.977,504.513 289.207,497.243 300,492.25C307.693,488.69 315.693,485.94 324,484C334.593,481.713 346.01,480.547 358.25,480.5C368.863,480.46 379.113,481.71 389,484.25C399.767,487.043 410.35,489.71 420.75,492.25C430.33,494.59 439.997,496.09 449.75,496.75C462.077,497.643 474.067,495.93 485.72,491.61C486.033,491.497 486.273,491.293 486.44,491C524.173,425.387 562.257,359.783 600.69,294.19C616.09,267.903 633.297,242.61 652.31,218.31C659.67,208.723 667.713,199.6 676.44,190.94C696.86,170.893 719.943,154.893 745.69,142.94C753.063,139.513 760.667,136.533 768.5,134C776.1,131.487 783.537,129.423 790.81,127.81C799.183,126.33 806.81,127.497 813.69,131.31C816.363,132.797 817.8,134.777 818,137.25C818.32,140.01 817.217,142.24 814.69,143.94C811.23,146.253 807.5,147.67 803.5,148.19C803.167,148.23 802.84,148.297 802.52,148.39C789.807,152.123 778.153,158.93 767.56,168.81C758.013,177.717 749.44,187.663 741.84,198.65C741.653,198.923 741.473,199.203 741.3,199.49C724.68,225.837 709.267,252.777 695.06,280.31C680.98,307.537 666.48,335.62 651.56,364.56C644.273,378.707 636.607,392.54 628.56,406.06C614.167,430.213 597.377,452.673 578.19,473.44C566.137,486.48 554.01,499.52 541.81,512.56C541.657,512.733 541.68,512.87 541.88,512.97C557.073,520.61 572.613,526.787 588.5,531.5C609.013,537.773 630.013,540.44 651.5,539.5C666.433,538.847 680.58,536.077 693.94,531.19C707.9,526.323 721.4,518.907 734.44,508.94C754.553,493.64 771.593,475.597 785.56,454.81C798.32,435.83 809.697,415.29 819.69,393.19C832.837,364.317 842.737,334.583 849.39,303.99C849.463,303.663 849.54,303.337 849.62,303.01C855.173,280.483 858.133,257.397 858.5,233.75C858.907,207.177 854.637,182.113 845.69,158.56C840.97,146.14 834.137,134.89 825.19,124.81C809.01,106.63 789.383,93.757 766.31,86.19C746.897,79.817 726.21,76.753 704.25,77C694.303,77.127 684.033,77.773 673.44,78.94C653.307,81.407 634.077,85.427 615.75,91C600.03,95.78 584.843,101.927 570.19,109.44C546.81,120.78 525.56,135.28 506.44,152.94C494.573,163.9 484.407,175.317 475.94,187.19C466.487,200.13 458.57,213.547 452.19,227.44C445.83,241.273 441.433,255.543 439,270.25C438.02,276.623 437.603,282.457 437.75,287.75C437.81,298.057 439.997,307.87 444.31,317.19C447.683,324.463 452.267,330.297 458.06,334.69C468.733,342.557 481.297,346.243 495.75,345.75C506.937,345.37 517.25,342.6 526.69,337.44C533.403,333.72 539.903,329.637 546.19,325.19C550.87,322.003 555.557,320.773 560.25,321.5C563.597,322.107 565.347,324.107 565.5,327.5C565.52,330.393 564.667,333.207 562.94,335.94C560.46,339.847 557.21,343.763 553.19,347.69C550.663,350.15 547.997,352.4 545.19,354.44C532.717,363.327 519.257,371.117 504.81,377.81C490.27,384.903 475.083,389.133 459.25,390.5C442.903,391.907 427.923,389.053 414.31,381.94C407.437,378.507 401.5,373.943 396.5,368.25C388.7,359.403 382.95,349.07 379.25,337.25C376.143,327.323 374.56,316.74 374.5,305.5C374.48,286.44 377.627,268.003 383.94,250.19C394.5,220.477 410.333,193.56 431.44,169.44C445.58,153.28 461.163,138.78 478.19,125.94C503.537,107.013 530.87,91.68 560.19,79.94C591.557,67.413 623.91,58.933 657.25,54.5C673.41,52.353 690.66,51.437 709,51.75ZM324.44,542.56C329.913,546.8 336.433,549.697 344,551.25C350.34,552.81 357.173,553.477 364.5,553.25C377.373,552.85 389.893,550.37 402.06,545.81C412.027,542.31 421.743,538.21 431.21,533.51C431.61,533.31 431.6,533.13 431.18,532.97C420.04,529.05 408.73,524.56 397.25,519.5C379.683,511.76 361.1,508.76 341.5,510.5C334.907,511.147 329.177,513.167 324.31,516.56C320.337,519.547 318.253,523.797 318.06,529.31C317.887,534.723 320.013,539.14 324.44,542.56Z" style="fill:rgb(227,226,222);fill-rule:nonzero;stroke:rgb(61,58,53);stroke-width:2.54px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+            </g>
+            <g transform="matrix(5.24256,1.26642,-1.29706,5.3694,-78.1999,-377.049)">
+                <g transform="matrix(0.208061,-0.978116,0.978116,0.208061,70.9312,98.1936)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">L</text>
+                </g>
+                <g transform="matrix(0.387202,-0.921995,0.921995,0.387202,72.4912,91.6021)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">a</text>
+                </g>
+                <g transform="matrix(0.601366,-0.798974,0.798974,0.601366,76.1173,83.9501)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.19px;stroke-linecap:butt;stroke-miterlimit:2;">D</text>
+                </g>
+                <g transform="matrix(0.713102,-0.70106,0.70106,0.713102,80.956,77.9761)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.19px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.800587,-0.599217,0.599217,0.800587,83.7052,75.3031)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.19px;stroke-linecap:butt;stroke-miterlimit:2;">o</text>
+                </g>
+                <g transform="matrix(0.890109,-0.455747,0.455747,0.890109,89.2528,71.3308)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">n</text>
+                </g>
+                <g transform="matrix(0.941479,-0.337072,0.337072,0.941479,95.6031,68.326)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.974391,-0.224859,0.224859,0.974391,99.22,67.0709)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">s</text>
+                </g>
+                <g transform="matrix(0.993715,-0.111935,0.111935,0.993715,105.215,65.859)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.999973,0.00731594,-0.00731594,0.999973,109.028,65.452)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">a</text>
+                </g>
+                <g transform="matrix(0.972311,0.233691,-0.233691,0.972311,117.495,65.7359)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">W</text>
+                </g>
+                <g transform="matrix(0.922666,0.3856,-0.3856,0.922666,126.881,68.379)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.864607,0.502449,-0.502449,0.864607,130.407,69.8631)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">n</text>
+                </g>
+                <g transform="matrix(0.769935,0.638123,-0.638123,0.769935,136.396,73.5391)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">e</text>
+                </g>
+                <g transform="matrix(0.659902,0.751351,-0.751351,0.659902,141.167,77.677)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">s</text>
+                </g>
+            </g>
+            <g transform="matrix(5.2362,-1.29245,1.32372,5.36289,-360.372,-99.7259)">
+                <g transform="matrix(0.207486,0.978238,-0.978238,0.207486,71.0379,112.786)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">L</text>
+                </g>
+                <g transform="matrix(0.365601,0.930772,-0.930772,0.365601,72.5778,119.391)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">a</text>
+                </g>
+                <g transform="matrix(0.560461,0.828181,-0.828181,0.560461,75.9742,127.129)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">D</text>
+                </g>
+                <g transform="matrix(0.667166,0.744909,-0.744909,0.667166,80.4924,133.361)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.753978,0.6569,-0.6569,0.753978,83.0648,136.204)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">o</text>
+                </g>
+                <g transform="matrix(0.847676,0.530514,-0.530514,0.847676,88.2911,140.581)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">n</text>
+                </g>
+                <g transform="matrix(0.905859,0.42358,-0.42358,0.905859,94.364,144.138)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.947031,0.321143,-0.321143,0.947031,97.8358,145.724)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">s</text>
+                </g>
+                <g transform="matrix(0.976451,0.215739,-0.215739,0.976451,103.688,147.539)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.99471,0.102721,-0.102721,0.99471,107.42,148.344)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">a</text>
+                </g>
+                <g transform="matrix(0.993871,-0.110547,0.110547,0.993871,115.874,149.001)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">W</text>
+                </g>
+                <g transform="matrix(0.966762,-0.255679,0.255679,0.966762,125.507,147.58)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">i</text>
+                </g>
+                <g transform="matrix(0.929099,-0.369832,0.369832,0.929099,129.214,146.589)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.18px;stroke-linecap:butt;stroke-miterlimit:2;">n</text>
+                </g>
+                <g transform="matrix(0.863361,-0.504587,0.504587,0.863361,135.69,143.843)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.19px;stroke-linecap:butt;stroke-miterlimit:2;">e</text>
+                </g>
+                <g transform="matrix(0.784649,-0.619941,0.619941,0.784649,141.073,140.552)">
+                    <text x="0px" y="0px" style="font-family:'CopperplateGothic-Bold', 'Copperplate Gothic Bold', sans-serif;font-size:7.079px;fill:rgb(191,191,191);stroke:white;stroke-width:0.19px;stroke-linecap:butt;stroke-miterlimit:2;">s</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

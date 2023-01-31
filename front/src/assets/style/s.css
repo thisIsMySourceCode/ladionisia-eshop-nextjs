@@ -1,0 +1,89 @@
+@media screen and (min-width:360px) and (max-width: 540px) 
+{
+  .main-body { 
+    margin: 0!important;
+  }
+  .div-members   ,
+  .main-about h2 ,
+  .main-about p
+  {
+    padding-left : 2rem;
+    padding-right: 2rem;
+    font-size: 130%;
+    hyphens: auto;
+  }
+
+  .member-card {margin-bottom: 5%}
+
+
+
+  #navbar {scale:.8;margin-left: -3.4%;z-index: 40;}
+  .nav-icons {scale:.75;margin-top: 30px;}
+  .main-body {overflow: hidden!important;}
+  .wine-types a 
+  {
+    text-transform: capitalize!important;
+    font-size: 75%;
+  }
+
+  footer .container 
+  { height:120px!important
+  }
+ .footer-logo 
+  {
+    display:none
+  }
+  #footer-links
+  { margin-left: -10vw;
+    margin-top: -45px;
+    font-size: 85%;
+  }
+  #contact-div
+  { margin-top: -5px;
+    margin-left: 2vw;
+    font-size: 104%;
+  }
+  #footer-links-left
+  { text-transform: capitalize!important;
+  }
+
+  #passion-for-wine 
+  .wine-types 
+  { margin-top: 0; 
+    padding-bottom: 20px;
+  }
+  .wine-types 
+  .relative 
+  { display: none 
+  }
+  .wine-types
+  { letter-spacing: 0px; 
+    font-size: 1.125rem 
+  }
+  .wine-types a:hover
+  { background-color: #87837d 
+  }
+
+  .wine-types a 
+  { min-width:20%; 
+    border-right: 1px solid #a3a3a3; 
+    border-top:1px solid #a3a3a3;
+    border-bottom:1px solid #a3a3a3;
+    font-family:"Segoe UI",Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600; 
+    text-transform: uppercase; 
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-bottom: -10px;
+  }
+
+  .wine-types a:last-of-type 
+   { border-right: none 
+   }
+
+   .page-numbers 
+   { display: none 
+   }
+
+}

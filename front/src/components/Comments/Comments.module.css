@@ -1,0 +1,91 @@
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.rating input[type=radio] {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+}
+
+.rating input[type=radio]:focus~label,
+.rating input[type=radio]:checked~label {
+    --text-shadow-color: #333;
+}
+
+.rating input[type=radio]:hover~label {
+    --text-shadow-color: #722F37;
+}
+
+.rating label {
+    --text-shadow-color: lightgray;
+    text-shadow: 1000em 0 var(--text-shadow-color);
+    text-indent: -2000em;
+    width: 1.25em;
+    text-align: center;
+}
+
+.rating label::after {
+    content: var(--glyph, "🍷");
+}
+
+.rating label {
+    margin-top: 1px
+}
+
+
+.btn {
+    width: 100%;
+    color: #606060;
+    margin-left: 20px;
+    float: right;
+    font-size: 1.2rem;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 3px 10px;
+    background: #ddd;
+}
+
+.iconos {
+    float: right;
+    color: transparent;
+    text-shadow: 0 0 0 #777;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+
+.copas {
+    color: transparent;
+    text-shadow: 0 0 0 #722F37;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.iconoReport {
+    text-align: right;
+    font-weight: bold;
+    color: #ffb02e;
+    float: right;
+}
+
+.textarea {
+    padding: 10px;
+    resize: none;
+    overflow: hidden;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+    height: 115px;
+}
+
+.textarea:focus {
+    outline: none;
+}
+
+.textarea::-webkit-scrollbar {
+    display: none;
+}

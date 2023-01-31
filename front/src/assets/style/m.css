@@ -1,0 +1,9 @@
+
+@media screen and (min-width:541px) and (max-width: 820px) 
+{
+  .main-body { 
+        margin: 0!important;
+         scale: 1;
+      overflow: hidden!important;
+  }
+}  

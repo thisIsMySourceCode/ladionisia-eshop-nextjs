@@ -1,0 +1,8 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule api/([0-9a-zA-Z_-]*)$ api.php?id=$1 [NC,L]
+RewriteRule count/([0-9a-zA-Z_-]*)$ count.php?id=$1 [NC,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

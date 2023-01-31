@@ -1,0 +1,121 @@
+.modalage
+{
+    font-family: 'Poppins';
+    font-weight: 300;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    z-index: 5;
+    background-color: #2F3336;
+    opacity: .95;
+    padding: 8px 0;
+
+
+}
+.modalage p
+{
+    padding: 10px 0;
+    font-size:1.15rem;
+    color: #999999;
+    max-width: 550px;
+    margin: 0 auto;
+    display: inline-block;
+padding: 0 20px 5px 0;
+}
+.modalage button {
+    font-family: 'Poppins';
+    font-weight: 500;
+    z-index: 100;
+    font-size: 1,15rem;
+    box-sizing: border-box;
+    display: inline-block;
+    flex-grow: 1;
+    letter-spacing: 3.5px;
+    line-height: 32px;
+    text-decoration-thickness: auto;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    padding: 8px 20px 5px 24px;
+    background-color:#2f3336;
+    border:1px solid #3F4346;
+    color:#ffffff; 
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+    0px 8px 13px rgba(0,0,0,0.1),
+    0px 18px 23px rgba(0,0,0,0.1);
+    animation: fadeInAnimation ease 5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+.modalage button:hover {background-color: #3F4346;}
+.footer {
+/* background-color: #2F3336;*/
+         position: sticky;
+           bottom: 0;
+            width: 100vw;
+  /*          color: #999999;*/
+  color: #344;
+      font-family: "Bodony Body";
+      font-weight: 400;
+        font-size: 14px;
+      line-height: 18px;
+
+}
+.footer h6 {
+/*    color :#ffffff;*/
+color:#122;
+   padding: 0 7px;
+}
+.footer a {  
+    display: inline-block;
+   position: relative;
+      width: 136px;
+    padding: 0 7px;
+}
+.footer a:hover {
+/*    color: #cccccc;*/
+color:#233;
+}
+.footer .privacy {
+    margin:0 -15px
+}
+.contactinfo {
+  width:154px;
+  text-align: left;
+}
+.footlinks{
+    margin-left: -60px;
+}
+.footlink{
+    width:120px;
+    display:inline-block;
+    text-align: left;
+}
+.spanLeft{
+    position: absolute;
+    left:7px;
+    opacity:0;
+    transition:0.5s;
+    color:#E26A2C;
+    font-size: 18px;
+    line-height: 15px;
+}
+.spanRight{
+    position: absolute;
+    right:7px;
+    opacity:0;
+    transition:0.4s ease-in-out;
+    color:#E26A2C;
+    font-size: 18px;
+    line-height: 15px;
+}
+a:hover .spanLeft
+{  position: absolute;
+   left:-4px;
+   opacity:1;
+}
+a:hover .spanRight{
+    position: absolute;
+    right:0;
+    opacity:1;
+}
